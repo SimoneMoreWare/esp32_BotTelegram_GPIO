@@ -4,17 +4,16 @@
 #include <ArduinoJson.h>
 
 // Replace with your network credentials
-const char* ssid = "TIM-19609261";
-const char* password = "ciccipako";
+const char* ssid = "";
+const char* password = "";
 
 // Initialize Telegram BOT
-#define BOTtoken "5745762381:AAHrj8bzYMrCDG7o_WhmbNE7uRCXG0z9Sco"  // your Bot Token (Get from Botfather)
+#define BOTtoken ""  // your Bot Token (Get from Botfather)
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-#define CHAT_ID "547003778"
-
+#define CHAT_ID ""
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
