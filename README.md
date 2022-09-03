@@ -53,15 +53,13 @@ Se questo è il tuo primo articolo ti invito di leggere prima questo per l’ins
 ![alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2022/08/ltc-2.png?w=599&ssl=1)
 ![alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2022/08/ltc-3.png?w=557&ssl=1)
   
-Dobbiamo installare la libreria dht.h, dobbiamo andare su Sketch->Include library-> Manage libraries e cercare nell’apposito menù la libreria dht.h.
 
-![alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2023/01/adafruit_dht_library.png?w=750&ssl=1)
 
 Dobbiamo installare la libreria UniversalTelegramBot.h, dobbiamo andare su Sketch->Include library-> Manage libraries e cercare nell’apposito menù la libreria UniversalTelegramBot.h.
 
 ![alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2022/08/FRSHLA9JQQYK3OF.png?resize=768%2C437&ssl=1)
 
-# Codice 
+# Codice link
  Link Codice https://github.com/SimoneMoreWare/esp32_BotTelegram_GPIO/blob/main/LedBot.ino
   
 # Conclusione
